@@ -9,9 +9,9 @@ Mass  kg
 Acceleration  m/s²
 
 
-F = 1000 \times 3
+$$F = 1000 \times 3$$
 
-F = 3000 \text{ N}
+$$F = 3000 \text{ N}$$
 
 ✅ Answer:
 The force applied to the car is 3000 newtons (N).
