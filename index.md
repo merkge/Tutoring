@@ -1,4 +1,5 @@
-Great lesson structure—you’re covering the core ideas behind the Newton's Laws of Motion introduced by Isaac Newton Second Law**:
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 F = ma
 
